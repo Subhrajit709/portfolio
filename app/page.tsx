@@ -376,7 +376,7 @@ export default function Portfolio() {
                   size="lg"
                   className="transition-all hover:scale-105 bg-transparent"
                 >
-                  <a href="#contact">
+                  <a href="https://drive.google.com/file/d/1rgIuuvL6pqzD9_GUMGXW_n8yrQjDe06x/view?usp=sharing">
                     <Download className="mr-2 h-5 w-5" /> Request CV
                   </a>
                 </Button>
@@ -749,11 +749,7 @@ export default function Portfolio() {
                     className="w-full transition-all hover:scale-105 bg-indigo-600 hover:bg-indigo-700 h-12"
                   >
                     <a
-                      href={`mailto:${
-                        PROFILE.email
-                      }?subject=CV%20Request%20—%20${encodeURIComponent(
-                        PROFILE.name
-                      )}&body=Hi%20Subhrajit%2C%5CnPlease%20share%20your%20CV%20for%20the%20role%3A%20`}
+                      href="https://drive.google.com/file/d/1rgIuuvL6pqzD9_GUMGXW_n8yrQjDe06x/view?usp=sharing"
                     >
                       <Download className="mr-2 h-5 w-5" />
                       Request CV
