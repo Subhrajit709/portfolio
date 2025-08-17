@@ -141,7 +141,7 @@ const PROJECTS: Project[] = [
       "Client-side web application that allows users to create and customize professional resumes with real-time preview and export options.",
     stack: ["React"],
     link: "https://github.com/Subhrajit709/resumebuilder",
-    category: "AI/ML",
+    category: "",
   },
 ];
 
