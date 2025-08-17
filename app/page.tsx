@@ -120,7 +120,7 @@ const PROJECTS: Project[] = [
     description:
       "Animated, accessible portfolio with dark/light mode, gradient theming, and smooth scroll.",
     stack: ["React", "Tailwind", "Framer Motion", "shadcn/ui"],
-    link: "https://github.com/Subhrajit709",
+    link: "https://portfolio-tau-plum-50.vercel.app",
     // category: "Frontend",
       category: "",
   },
@@ -130,7 +130,7 @@ const PROJECTS: Project[] = [
     description:
       "Interactive web-based game where players place ships and attempt to sink the opponent’s fleet, with real-time game logic and dynamic board rendering.",
     stack: ["Html", "Css", "JavaScript", "Webpack"],
-    link: "https://github.com/Subhrajit709",
+    link: "https://github.com/Subhrajit709/battleship",
     // category: "Full Stack",
     category: "",
   },
@@ -140,7 +140,7 @@ const PROJECTS: Project[] = [
     description:
       "Client-side web application that allows users to create and customize professional resumes with real-time preview and export options.",
     stack: ["React"],
-    link: "https://github.com/Subhrajit709",
+    link: "https://github.com/Subhrajit709/resumebuilder",
     category: "AI/ML",
   },
 ];
