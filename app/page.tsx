@@ -139,8 +139,17 @@ const PROJECTS: Project[] = [
     image :"/ph-3.png",
     description:
       "Client-side web application that allows users to create and customize professional resumes with real-time preview and export options.",
-    stack: ["React"],
+    stack: ["React" , "Tailwind CSS"],
     link: "https://github.com/Subhrajit709/resumebuilder",
+    category: "",
+  },
+  {
+    name: "Weather App",
+    image :"/ph-7.png",
+    description:
+      "Responsive web app that provides real-time weather details and forecasts with location-based search.",
+    stack: ["React", "Tailwind CSS" , "TypeScript" , "Vite"],
+    link: "https://github.com/Subhrajit709/weatherapp",
     category: "",
   },
 ];
